@@ -90,7 +90,7 @@ body {
 }
 
 .mobile-element {
-  display: block;
+  display: block !important;
 }
 
 .accent-btn {
